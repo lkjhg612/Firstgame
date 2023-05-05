@@ -19,7 +19,7 @@ gamefont = pygame.font.Font('04B_19.TTF', 40) #font
 gameplay = True
 
 
-#thay đổi
+#thay đổi lần thứ 1
 
 
 
