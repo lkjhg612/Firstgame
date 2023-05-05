@@ -20,6 +20,8 @@ gameplay = True
 
 
 #thay đổi lần thứ 1
+#thay đổi lần thứ 2 
+#thay đổi lần thứ 3
 
 
 
